@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Deep'
+project = 'DeepTalktest'
 copyright = '2023, wenyiyang'
 author = 'wenyiyang'
 release = '0.1'
