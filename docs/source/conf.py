@@ -18,9 +18,16 @@ import os
 import sphinx
 
 extensions = [
-        'recommonmark',
-        'sphinx_markdown_tables',
-        'sphinxemoji.sphinxemoji',
+    'sphinx_mdinclude',
+    'sphinx_rtd_theme',
+    'sphinx.ext.autodoc',
+    'sphinx.ext.napoleon',
+    'sphinx.ext.autosummary',
+    'sphinx.ext.mathjax',
+    'sphinx_autodoc_typehints',
+    'sphinx_rtd_size',
+    'nbsphinx',
+    'sphinx_gallery.load_style',
 ]
 
 templates_path = ['_templates']
