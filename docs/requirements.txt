@@ -1,11 +1,6 @@
-# markdown suport
-recommonmark
-# markdown table suport
-sphinx-markdown-tables
-#emoji
-sphinxemoji
-
-# theme default rtd
-
-# crate-docs-theme
-sphinx-rtd-theme
+sphinx==6.2.1
+sphinx-rtd-theme==1.2.2
+pillow==5.4.1
+mock==1.0.1
+commonmark==0.9.1
+recommonmark==0.5.0
